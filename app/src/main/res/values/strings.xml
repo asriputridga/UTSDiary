@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Diary</string>
+    <string name="action_font">Font Size</string>
+    <string name="action_settings">Dellete All</string>
+    <string name="action_change">Change Theme Color</string>
+
+    <string name="title_activity_diary">DiaryActivity</string>
+
+    <string name="font_medium">sans-serif-medium</string>
+    <string name="font_regular">sans-serif</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+</resources>
